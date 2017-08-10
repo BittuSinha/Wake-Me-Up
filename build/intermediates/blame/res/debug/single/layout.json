@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\startup.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_math_question.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\activity_math_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dat.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\dat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\layout\\edit.xml"
+    }
+]

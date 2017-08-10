@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:enabled="true" android:title="Repeat Info" android:key="cat1" android:selectable="true">
+        <ListPreference android:selectable="true" android:title="Repetition Details" android:entries="@array/rep" android:summary="Select Repetition" android:entryValues="@array/rep" android:enabled="true"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:enabled="true" android:title="Label" android:key="cat2" android:selectable="true">
+        <EditTextPreference android:summary="Set Alarm Name" android:selectable="true" android:enabled="true" android:title="Alarm Name"/>
+    </PreferenceCategory>
+    
+
+</PreferenceScreen>

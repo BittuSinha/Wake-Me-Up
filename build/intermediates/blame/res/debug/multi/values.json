@@ -1,0 +1,148 @@
+[
+    {
+        "outputFile": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\spin.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 44,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 44,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 43,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 47,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 52,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 50,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 58,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 58,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 69,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 57,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\ankur sinha\\AndroidStudioProjects\\WakeMeUp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
