@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Wake Me Up</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Wake Me Up</string>
+    <string name="title_activity_math_question">MathQuestion</string>
+    <string-array name="rep">
+        <item >Once</item>
+        <item >Repeat Daily</item>
+        <item >Repeat Weakly</item>
+    </string-array>
+
+</resources>
